@@ -162,4 +162,4 @@ Borra la carpeta. No escribe en el registro ni deja servicios en ejecución.
 
 ---
 
-*Firmware de Ryujinx · Actualizado 2026-11-06 · Compartido bajo licencia MIT*
+*Firmware de Ryujinx · Actualizado 2026-11-07 · Compartido bajo licencia MIT*
